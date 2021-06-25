@@ -1,3 +1,23 @@
+### Snapshots
+
+The posters are getting pulled from TMDB api. Each genre has it's own collection.
+
+## HomeScreen
+
+![s1](<https://github.com/XenoCod/FilmZilla/blob/ea96f397223d0933d942231eac226eae53f612a2/screenshots/Screenshot%20(380).png>)
+
+![s2](<https://github.com/XenoCod/FilmZilla/blob/ea96f397223d0933d942231eac226eae53f612a2/screenshots/Screenshot%20(381).png>)
+
+![s3](<https://github.com/XenoCod/FilmZilla/blob/ea96f397223d0933d942231eac226eae53f612a2/screenshots/Screenshot%20(382).png>)
+
+![s4](<https://github.com/XenoCod/FilmZilla/blob/ea96f397223d0933d942231eac226eae53f612a2/screenshots/Screenshot%20(383).png>)
+
+## Mobile view
+
+![s5](<https://github.com/XenoCod/FilmZilla/blob/ea96f397223d0933d942231eac226eae53f612a2/screenshots/Screenshot%20(384).png>)
+
+![s6](<https://github.com/XenoCod/FilmZilla/blob/ea96f397223d0933d942231eac226eae53f612a2/screenshots/Screenshot%20(385).png>)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
